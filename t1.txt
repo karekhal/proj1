@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 08D2-9780
+
+ Directory of C:\projsGIT\proj1
+
+12.01.2018  12:22 PM    <DIR>          .
+12.01.2018  12:22 PM    <DIR>          ..
+12.01.2018  09:28 AM                69 hello.txt
+12.01.2018  12:21 PM                42 index.txt
+12.01.2018  12:22 PM                 0 t1.txt
+               3 File(s)            111 bytes
+               2 Dir(s)  387,533,434,880 bytes free
